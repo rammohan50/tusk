@@ -6,6 +6,9 @@ kheer
 pastha
 chicken
 
+beans
+pizza
+
 
 
 Thanks you :)
